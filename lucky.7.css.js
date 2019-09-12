@@ -14,7 +14,7 @@ var StyleSheet = new new Caste
 	{
 		if ( this.rules )
 		{
-			return $A( this.rules ) // IE, pig fuckers. ( I'm talking about MS, not their users. )
+			return $A( this.rules ) // IE
 		}
 		else
 		{
